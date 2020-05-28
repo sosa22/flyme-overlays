@@ -5052,7 +5052,7 @@
     <string name="network_unavaiable_msg">Відсутнє підключення до мережі. Перевірте налаштування мережі</string>
     <string name="hide_fringe_title">Приховати виїмку на екрані</string>
     <string name="hide_fringe_summary">Виїмку на екрані залито чорним кольором</string>
-    <string name="run_memory">"Бракує пам'яті"</string>
+    <string name="run_memory">"Пам'ять"</string>
     <string name="sos_title">Екстрена служба</string>
     <string name="mz_timezone_pacific_majuro">Маршаллові острови</string>
     <string name="mz_timezone_pacific_midway">Мідуей</string>
